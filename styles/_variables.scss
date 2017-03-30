@@ -20,8 +20,8 @@
 // Colors
 //
 // Grayscale and brand colors for use across Bootstrap.
-$gray: 							#21304d !default;
-$gray-lightest:					#dfe3e6	!default;
+$gray: 							#232c35 !default;
+$gray-lightest:					#e8f6ff	!default;
 $gray-light: 					mix(white, $gray, 10%)!default;
 
 $gray-dark: 					mix(black, $gray, 30%)!default;
@@ -129,12 +129,12 @@ $font-family-thick:'Bungee';
 //$font-size-lg:               1.25rem !default;
 //$font-size-sm:               .875rem !default;
 //$font-size-xs:               .75rem !default;
-//$font-size-h1:               2.5rem !default;
-//$font-size-h2:               2rem !default;
-//$font-size-h3:               1.75rem !default;
-//$font-size-h4:               1.5rem !default;
-//$font-size-h5:               1.25rem !default;
-//$font-size-h6:               1rem !default;
+$font-size-h1:               2.5rem !default;
+$font-size-h2:               2rem !default;
+$font-size-h3:               1.75rem !default;
+$font-size-h4:               1.5rem !default;
+$font-size-h5:               1.25rem !default;
+$font-size-h6:               1rem !default;
 //$display1-size:               6rem !default;
 //$display2-size:               5.5rem !default;
 //$display3-size:               4.5rem !default;
